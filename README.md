@@ -1,10 +1,10 @@
 # Recursividad BlackJack Phyton
 # Maestría en ciencias de la Información y las Comunicaciones
-Informatica 
-Nombre: José Sebastian Cañon Moreno
-Codigo: 20202495004
+* Informatica 
+* Nombre: José Sebastian Cañon Moreno
+* Codigo: 20202495004
 
-Algoritmo desarrollado con el fin de practicar el uso de la recursividad, este es un juego desarrollado sin usar ninguna asignación
+* Algoritmo desarrollado con el fin de practicar el uso de la recursividad, este es un juego desarrollado sin usar ninguna asignación
 
 # Requerimientos
 * Tener phyton instalado.
